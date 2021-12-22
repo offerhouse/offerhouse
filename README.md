@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @offerhouse
-- 👀 I’m interested in C# and Unity
-- 🌱 I’m currently learning Unity
+
 
 <!---
 offerhouse/offerhouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
